@@ -44,7 +44,7 @@ The **NDT Exposure Time Calculator** is an innovative tool designed for technici
 
 ---
 
-###🗄️SQLite Database
+### 🗄️SQLite Database
   - Tracks isotopes in stock with automatic activity updates.  
   - Facilitates easy management of resources.  
 
