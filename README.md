@@ -1,7 +1,7 @@
 # NDT Exposure Time Calculator  
 
 ### 🚧 App in Development 🚧  
-**Note**: This app is currently in beta version, so some bugs/design flaws may occur (e.g. AI generated logo that is only placeholder)
+**Note**: This app is currently in beta version, so its design is not complete (e.g. AI generated logo that is only placeholder)
 
 ---
 
