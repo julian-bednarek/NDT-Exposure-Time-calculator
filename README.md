@@ -44,7 +44,7 @@ The **NDT Exposure Time Calculator** is an innovative tool designed for technici
   - Facilitates easy management of resources.  
 
 <div style="display: flex; gap: 40px;">
-    <img src="https://github.com/user-attachments/assets/7f0955f8-a16b-496c-808c-4c01b3c9c03f" 
+    <img src="https://github.com/user-attachments/assets/1836c4e3-1b8c-4c07-9ffd-c28db85ef217" 
          alt="Screenshot 1" 
          style="width: 300px; height: auto; border: 1px solid #ccc; border-radius: 5px;">
     <img src="https://github.com/user-attachments/assets/e8df15d9-54ab-4c87-a09c-1d6638e02196" 
@@ -54,7 +54,8 @@ The **NDT Exposure Time Calculator** is an innovative tool designed for technici
 
 ---
 
-### 📱 Architecture  
+### 📱 Architecture
+
 - **MVVM Architecture**:  
   - Designed for maintainability and scalability.  
   - Streamlined for future updates.  
