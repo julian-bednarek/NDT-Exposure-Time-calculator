@@ -1,6 +1,6 @@
 # NDT Exposure Time Calculator
 
-## If someone is interested in looking into source code, please reach me via LinkedIn/gmail :)
+## If you're interested in checking out the source code, feel free to reach out to me via LinkedIn or Gmail.
 
 ## Overview  
 
