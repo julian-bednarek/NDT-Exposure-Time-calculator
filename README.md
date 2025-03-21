@@ -1,5 +1,7 @@
 # NDT Exposure Time Calculator
 
+## If someone is interested in looking into source code, please reach me via LinkedIn/gmail :)
+
 ## Overview  
 
 The **NDT Exposure Time Calculator** is an innovative tool designed for technicians in the Non-Destructive Testing (NDT) industry. This app simplifies the calculation of exposure time for various types of machines, ensuring precision and efficiency in workflows.  
